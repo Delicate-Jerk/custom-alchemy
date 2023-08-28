@@ -1,0 +1,87 @@
+
+Vision:-
+5ireChain aims to become a blockchain ecosystem for the 5th industrial revolution (5IR) where self-governing decentralized companies are incentivized and empowered towards sustainable development. This is mainly due to 5ireChain’s business idea that is created upon a for-benefit paradigm, known as the proof-of-benefit model. The proof-of-benefit model allows sustainable practices that are beneficial for the environment. The impact of this model is that business entities not only focus on profit making but they also take sustainability into consideration.
+Mission:-
+5ire aims to become a blockchain ecosystem for the 5th industrial revolution, where self-sovereign decentralized organizations are empowered & incentivized toward accelerating the implementation of the United Nations 2030 Agenda for Sustainable Development.Our goal is to work hard to provide finance platforms that could potentially revolutionize access to capital and unlock potential for new investors in projects that address environmental challenges.
+
+Values:-
+We value community, accountability, innovation, transparency, and a shared sense of purpose. Blockchain’s ability to provide a verifiable and transparent record may make it well-placed to be central to our innovation. By decentralizing and digitizing the adjudication of what is trustworthy, 5ire also has the potential to empower broader communities and improve the slow, costly intermediation associated with our current models of environmental governance.
+
+The 5ire ecosystem aims to bring a shift in the paradigm from a for-profit economy to a for-benefit economy. This is achieved by embedding sustainability and social impact deep inside the 5ireChain runtime logic and ensuring that activities aligned with the United Nations Sustainable Development Goals, either on-chain or in the real world, are highly incentivized.It is a fifth-generation layer-1 blockchain ecosystem designed with economic and environmental sustainability at its core and is one of India's fastest-growing unicorns, enabled by a community of people worldwide.
+
+What is a node?
+A node in a blockchain network is an actor that participates in the network. A full node (sometimes called an archive) participates by maintaining a copy of the blockchain state, enforcing chain durability. A validator node contributes to the consensus process, producing blocks. The full nodes are the entry points to the blockchain network and the developer applications. Blockchain is a network of nodes interconnected with one another. The full node provides API for validating, managing accounts, sending transactions, interacting with smart contracts, and more.
+Who can run a node?
+Anyone can run a node on the 5ireChain network, as long as they have the necessary technical resources (stable internet connection and powerful enough hardware) and knowledge to set it up and maintain it. This includes individuals, organizations, or companies.
+Where to set up the Validator Node?
+It is recommended to set up a validator node in a cloud of your choice.
+Different type of nodes in 5ireChain network
+There are two types of nodes on 5ireChain:
+	1	Full Node
+	2	Validator Node
+Full Nodes
+Full nodes maintain the blockchain state, by storing all the blocks produced since the genesis. If all the full nodes go down and lose state, the blockchain history is irreversibly lost. That’s why they play the key role in assuring blockchain durability.
+Full nodes maintain the blockchain state by storing all the blocks produced since the genesis. The blockchain history is irreversibly lost if all the full nodes go down and lose state. That’s why they play a crucial role in assuring blockchain durability.
+Full nodes enable you to read the current state of the chain, index it, and submit extrinsic. They are used for interacting with the network, as they cannot participate in the consensus, eliminating the risk of unauthorized tampering with the keys or consensus itself.
+They also store an updated copy of the blockchain. Full nodes are much more secure and can perform instant send/receive transactions.
+Validator Node
+Validator nodes are responsible for block production, validation, and reaching a consensus about which sub-chains are finalized and which are discarded. If all the validators go down, the network stalls, but once the critical set of validators with keys authorized to produce blocks in a given session goes up again, the network resumes.
+Validators are required to stake a specific amount of 5ire Coins. In return for their work, they receive rewards like 5ire Coins. Their rewards come in two forms:
+	•	Transaction fees and transaction tips.
+	•	Staking rewards; new coins minted as part of the block reward.
+In the event of non-compliance, like going offline, attempting to attack the network, or running unauthorized software, validators and their nominators will be punished by getting their stakes slashed.
+Validators play a crucial role in the network's infrastructure. They are responsible for:
+	1	Creating new blocks,
+	2	Ensuring the network's finality, and
+	3	Maintaining the security of the network.
+Running a validator on a live network is a task of responsibility. You will be responsible not just for your own stake but also for the stakes of your existing nominators. Your money and reputation will be jeopardized if you make a mistake, and your stake, including your nominators', gets slashed.
+
+System Requirements:-
+Minimum Requirements
+
+CPU:
+Core: 4
+Threads: 8
+RAM: 8GB
+Storage: 100GB SSD (250+GB for archives)
+Software:
+Linux Version : 18.04 LTS or above
+Yarn: Version 1.22.19 or above
+Docker: Version 20.10.10 or above
+Recommended Requirements
+
+CPU:
+Core: 8
+Threads: 16
+RAM: 32GB
+Storage: 100GB SSD (250+GB for archives)
+Software:
+Linux Version : 18.04 LTS or above
+Yarn: Version 1.22.19 or above
+Docker: Version 20.10.10 or above
+Protocols
+
+If the system firewall is enabled, the node host must make the following ports (TCP) accessible:
+
+9944: For web sockets
+9933: For RPC call
+Best Practices
+
+Allow only minimum ports
+30333: For Blockchain discovery
+9944: For web sockets
+9933: For RPC
+22: For SSH (should be limited to certain address range or removed altogether after initial setup)
+Mount extra volume for blockchain storage
+Assign Static Public IP to instance/VM
+Monitoring Alarm on blockchain process and extra volume
+
+
+Pratik Gauri - Founder and Chief Executive Officer of 5ire (CEO of 5ire)
+Utkarsh Amitabh - Chief Marketing Officer of 5ire (CMO of 5ire)
+Bibin Babu - Chief Growth Officer of 5ire (CGO of 5ire)
+Prateek Dwivedi - Co-Founder & Chief Product Officer of 5ire (CPO of 5ire)
+Lukasz Orlowski - Chief Technology Officer of 5ire (CTO of 5ire)
+Saurabh Gupta - Chief Business Officer of 5ire (CBO of 5ire) 
+
+5ire was founded by Indian-origin entrepreneurs, Pratik Gauri and Prateek Dwivedi, along with web3 financier Vilma Mattila, in August 2021.

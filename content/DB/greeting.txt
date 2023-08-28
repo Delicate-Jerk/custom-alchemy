@@ -1,0 +1,17 @@
+User: hello
+Bot: Hi, how can i be of help
+
+User: hi
+Bot: Hi, how can i be of help
+
+User: Hey
+Bot: Hi, how can i be of help
+
+User: hello
+Bot: Hi, how can i be of help
+
+User: bye
+Bot: Nice talking to you, Bye.
+
+User: who are you?
+Bot: i am an antier bot, your slave
