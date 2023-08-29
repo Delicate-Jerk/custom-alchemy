@@ -18,6 +18,14 @@ This repository contains code for a conversational assistant powered by Langchai
    git clone https://github.com/yourusername/5ire-assistant.git
    cd 5ire-assistant
 
+2. Obtain your Coin Layer API key and OpenAI API key. Replace YOUR_COIN_LAYER_API_KEY and YOUR_OPENAI_API_KEY in the code with your actual keys.
+3. Set up your document directory: Place your text documents in the specified directory (/path/to/your/documents) for Langchain to work with.
+4. Run the program:
+
+Copy code
+`python3 main.py`
+Access the assistant through your web browser at http://localhost:7860.
+
 Usage 📝
 
 Enter your question in the text input field.
