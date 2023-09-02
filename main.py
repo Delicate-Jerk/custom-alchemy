@@ -14,7 +14,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Set up Langchain components (same as in your script)
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 loader = DirectoryLoader(
     '/Users/user1/Downloads/Antier-Sol/5ire/content/DB', glob="./*.txt", loader_cls=TextLoader)
 documents = loader.load()
@@ -54,7 +54,7 @@ def process_llm_response(query, llm_response):
 
 def get_exchange_rate(currency_code):
     endpoint = 'live'
-    access_key = '213bc803fad1ed021999e40ebb181db8'
+    access_key = ' '
     url = f'http://api.coinlayer.com/api/{endpoint}?access_key={access_key}'
 
     response = requests.get(url)

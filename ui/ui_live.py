@@ -12,7 +12,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 
 # Set up Langchain components (same as in your script)
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 loader = DirectoryLoader(
     '/Users/user1/Downloads/Antier-Sol/5ire/content/DB', glob="./*.txt", loader_cls=TextLoader)
 documents = loader.load()

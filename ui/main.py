@@ -14,7 +14,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Set up Langchain components (same as in your script)
-os.environ["OPENAI_API_KEY"] = " "
+os.environ["OPENAI_API_KEY"] = ""
 loader = DirectoryLoader(
     '/Users/arshitarora/projects/custom_alchemy/content/DB', glob="./*.txt", loader_cls=TextLoader)
 documents = loader.load()
@@ -86,5 +86,5 @@ def qa_bot(query, currency_code):
 
 # Define the Gradio interface with two input fields
 iface = gr.Interface(fn=qa_bot, inputs=["text", gr.inputs.Textbox(
-    label="Currency Code")], outputs="text", title="5ire Assistant xD")
+    label="Currency Code")], outputs="text", title="Blockchain Assistant")
 iface.launch(share=True)  # Setting share=True enables external access
