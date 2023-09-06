@@ -15,7 +15,7 @@ This repository contains code for a conversational assistant powered by Langchai
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/5ire-assistant.git
+   git clone https://github.com/yourusername/5ire-assistant.git 
    cd 5ire-assistant
 
 2. Obtain your Coin Layer API key and OpenAI API key. Replace YOUR_COIN_LAYER_API_KEY and YOUR_OPENAI_API_KEY in the code with your actual keys.
