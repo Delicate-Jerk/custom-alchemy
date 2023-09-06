@@ -30,7 +30,7 @@ Usage 📝
 
 Enter your question in the text input field.
 Optionally, enter a cryptocurrency code (e.g., BTC) to get its exchange rate.
-Click the "Submit" button to get your answer or exchange rate information.
+Click the "Submit" button to get your answer or exchange rate information. 
 Contributions 🙌
 
 Contributions are welcome! If you encounter any issues, have suggestions for improvements, or want to add new features, feel free to submit a pull request.
