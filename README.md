@@ -1,7 +1,7 @@
 # 5ire Assistant - GitHub README 👋💼🤖
 
 This repository contains code for a conversational assistant powered by Langchain components and the Coin Layer API. The assistant can answer questions and provide cryptocurrency exchange rates.
-
+ 
 ## Features 🚀
 
 - **Question Answering:** The assistant utilizes Langchain's components for question answering. It retrieves relevant information from a directory of text documents using embeddings and a retrieval-based approach.
