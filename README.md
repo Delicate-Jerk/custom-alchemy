@@ -6,7 +6,7 @@ This repository contains code for a conversational assistant powered by Langchai
 
 - **Question Answering:** The assistant utilizes Langchain's components for question answering. It retrieves relevant information from a directory of text documents using embeddings and a retrieval-based approach.
 
-- **Cryptocurrency Exchange Rates:** The assistant can also provide real-time exchange rates for cryptocurrencies using the Coin Layer API.
+- **Cryptocurrency Exchange Rates:** The assistant can also provide real-time exchange rates for cryptocurrencies using the Coin Layer API. 
 
 - **User Interface:** The assistant comes with a user-friendly interface built using Gradio. It allows users to input their queries and specify a cryptocurrency code to get relevant information.
 
